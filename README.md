@@ -22,8 +22,11 @@ line between sanitized portfolio material and raw/private evidence.
 
 ### 🧠 Areas
 
-`Application Security` · `Secure Software Development` · `Blue Team / SIEM` · `WAF & Hardening`
-`Network Segmentation` · `Authorized Pentest` · `AI + Offensive Security` · `Docker / CI`
+**AppSec & Dev** — `Application Security` · `Secure Software Development` · `Threat Modeling (STRIDE)` · `OWASP Top 10` · `LGPD / Privacy by Design` · `Multi-tenant SaaS` · `REST API security` · `PostgreSQL`
+
+**Blue team & Infra** — `Firewall (pfSense)` · `Network Segmentation` · `WAF (ModSecurity / OWASP CRS)` · `IAM / SSO (Keycloak)` · `MFA / TOTP` · `SIEM (Wazuh)` · `Monitoring (Prometheus · Grafana)` · `Nginx reverse proxy / TLS` · `Hardening` · `Backups (Restic)`
+
+**Offensive & Ops** — `Authorized Pentest` · `Recon & Vuln Assessment (CWE · CVSS)` · `AI + Offensive Security (local LLM)` · `Docker` · `CI/CD security` · `Cloud (AWS)`
 
 ### 📫 Contact
 
