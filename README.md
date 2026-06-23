@@ -1,38 +1,32 @@
-<h1 align="center">Hi, I'm Marco 👋</h1>
+<h1 align="center">Marco Rodrigues</h1>
 
 <p align="center">
-  <b>Cybersecurity student @ PUCPR</b> · building security from <i>dev</i> to <i>defense</i> to <i>offense</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/focus-AppSec%20%C2%B7%20DevSecOps-2dd4bf">
-  <img src="https://img.shields.io/badge/blue%20team-SIEM%20%C2%B7%20WAF%20%C2%B7%20hardening-3b82f6">
-  <img src="https://img.shields.io/badge/red%20team-pentest%20%C2%B7%20AI--assisted-f59e0b">
+  Cybersecurity student @ PUCPR — I build security you can <b>read, run and prove</b>.
 </p>
 
 ---
 
-### 🔭 What I'm about
+### 🔭 About
 
-I like security that you can **read, run and prove** — not slideware. Across three projects I've
-covered the full loop: writing secure software, defending it under live attack, and automating
-the offensive side *without* taking the human out of the loop.
+I work across the whole security loop: **writing secure software**, **defending it under live
+attack**, and **assessing the offensive side** — always keeping a human in the loop and a clear
+line between sanitized portfolio material and raw/private evidence.
 
 ### 🚀 Featured projects
 
-| Project | What it is | Stack / focus |
-|---------|-----------|---------------|
-| 🔐 **[ClinicBridge](https://github.com/MarcoRodrigues00/clinicbridge)** | Secure-by-design clinic management MVP — multi-tenant, JWT+MFA, PII protection, metadata-only audit, 64 automated security tests. *Synthetic data, not production.* | TypeScript · Node · React · PostgreSQL · Docker · CI |
-| 🛡️ **[portal-academico-seguro](https://github.com/MarcoRodrigues00/portal-academico-seguro)** | A defended web app validated under real, cross-team attacks: pfSense, ModSecurity WAF, Keycloak MFA, Wazuh/Prometheus/Grafana. | Defense-in-depth · SIEM · Docker · Keycloak |
-| 🤖 **[ai-pentest-lab](https://github.com/MarcoRodrigues00/ai-pentest-lab)** | AI-assisted pentest framework, human-in-the-loop: the LLM only *suggests*, guardrails block offensive actions, SHA-256 chain of custody. | Bash · LLM (Ollama) · auditable automation |
+| Project | What it is | Stack |
+|---------|-----------|-------|
+| 🔐 **[ClinicBridge](https://github.com/MarcoRodrigues00/clinicbridge)** | Secure-by-design clinic-management MVP: strict multi-tenant isolation, JWT + MFA (encrypted TOTP secret), PII masking, metadata-only audit and **64 automated security tests** in CI. *Synthetic data — not production.* | TypeScript · Node · React · PostgreSQL · Docker · CI |
+| 🛡️ **[portal-academico-seguro](https://github.com/MarcoRodrigues00/portal-academico-seguro)** | A secure web portal taken through the full lifecycle: **secure development** (Helmet, Zod, Keycloak/JWKS) → **blue-team defense** (pfSense, ModSecurity WAF, Wazuh/Prometheus/Grafana) → **pentest** in a 10-team round. | Node · React · Keycloak · Nginx/WAF · Docker |
+| 🧪 **[ai-pentest-lab](https://github.com/MarcoRodrigues00/ai-pentest-lab)** | Write-up of an AI-assisted, human-in-the-loop pentest lab — methodology, vulnerability analysis (XSS/SQLi/CSRF/SSRF…) and sanitized findings. The runnable tooling is kept private by design. | Security engineering · methodology · LLM (local) |
 
 ### 🧠 Areas
 
 `Application Security` · `Secure Software Development` · `Blue Team / SIEM` · `WAF & Hardening`
-`Network Segmentation` · `Pentest (authorized)` · `AI + Offensive Security` · `Docker / CI`
+`Network Segmentation` · `Authorized Pentest` · `AI + Offensive Security` · `Docker / CI`
 
-### 📫 Reach me
+### 📫 Contact
 
 - GitHub: [@MarcoRodrigues00](https://github.com/MarcoRodrigues00)
 
-<sub>⚠️ All offensive work was done in authorized, isolated labs. Security demos use synthetic data only.</sub>
+<sub>⚠️ All offensive work was done in authorized, isolated labs. Demos use synthetic data; raw evidence stays private.</sub>
