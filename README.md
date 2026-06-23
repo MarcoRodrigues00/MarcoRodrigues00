@@ -25,7 +25,6 @@ the offensive side *without* taking the human out of the loop.
 | 🔐 **[ClinicBridge](https://github.com/MarcoRodrigues00/clinicbridge)** | Secure-by-design clinic management MVP — multi-tenant, JWT+MFA, PII protection, metadata-only audit, 64 automated security tests. *Synthetic data, not production.* | TypeScript · Node · React · PostgreSQL · Docker · CI |
 | 🛡️ **[portal-academico-seguro](https://github.com/MarcoRodrigues00/portal-academico-seguro)** | A defended web app validated under real, cross-team attacks: pfSense, ModSecurity WAF, Keycloak MFA, Wazuh/Prometheus/Grafana. | Defense-in-depth · SIEM · Docker · Keycloak |
 | 🤖 **[ai-pentest-lab](https://github.com/MarcoRodrigues00/ai-pentest-lab)** | AI-assisted pentest framework, human-in-the-loop: the LLM only *suggests*, guardrails block offensive actions, SHA-256 chain of custody. | Bash · LLM (Ollama) · auditable automation |
-| 🧩 **[agenthub-local](https://github.com/MarcoRodrigues00/agenthub-local)** | Local-first web hub to orchestrate multiple coding-agent terminals in parallel, isolated per project — never reads or stores credentials. | TypeScript · Fastify · React · node-pty · WebSocket |
 
 ### 🧠 Areas
 
