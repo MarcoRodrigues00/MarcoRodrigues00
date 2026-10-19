@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B%20(SY0--701)-C8202F?style=for-the-badge" alt="CompTIA Security+">
+  <a href="https://www.credly.com/badges/c4415d0f-b7d5-4d99-931f-2d4bfc841bc8"><img src="https://img.shields.io/badge/CompTIA-Security%2B%20(SY0--701)-C8202F?style=for-the-badge" alt="CompTIA Security+"></a>
   <img src="https://img.shields.io/badge/Curitiba%2C%20BR-open%20to%20work-2EA043?style=for-the-badge" alt="Open to work">
 </p>
 
@@ -33,7 +33,7 @@ line between sanitized portfolio material and raw/private evidence.
 
 ### 📜 Certifications
 
-- **CompTIA Security+ (SY0-701)** — Oct 2026
+- **CompTIA Security+ (SY0-701)** — Oct 2026 · [verify on Credly](https://www.credly.com/badges/c4415d0f-b7d5-4d99-931f-2d4bfc841bc8)
 
 ### 🧠 Areas
 
