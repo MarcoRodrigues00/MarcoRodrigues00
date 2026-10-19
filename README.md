@@ -41,11 +41,6 @@ line between sanitized portfolio material and raw/private evidence.
 
 **Offensive & Ops** — `Authorized Pentest` · `Recon & Vuln Assessment (CWE · CVSS)` · `AI + Offensive Security (local LLM)` · `Docker` · `CI/CD security` · `Cloud (AWS)`
 
-### 🌱 Currently
-
-- TryHackMe — SOC Level 1 path
-- Building a Wazuh detection home lab (attack → log → rule → alert)
-
 ### 📫 Contact
 
 - GitHub: [@MarcoRodrigues00](https://github.com/MarcoRodrigues00)
