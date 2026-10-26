@@ -25,10 +25,10 @@ line between sanitized portfolio material and raw/private evidence.
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| 🕸️ **[siked](https://github.com/MarcoRodrigues00/siked)** | Blue Team + DevSecOps: a secure web app that exposes invisible decoys (honeypots + honeytokens). Every touch is adversary activity by design — captured, normalized, correlated by deterministic rules, **mapped to MITRE ATT&CK** and shown on a **live SOC dashboard**. CI security gates (Semgrep, Gitleaks, Checkov, Hadolint) block merges. | TypeScript · Node · Redis · WebSocket · Docker · CI |
+| 🕸️ **[siked](https://github.com/MarcoRodrigues00/siked)** | Blue Team + DevSecOps: a secure web app that exposes invisible decoys (honeypots + honeytokens). Every touch is adversary activity by design — captured, normalized, correlated by deterministic rules, **mapped to MITRE ATT&CK** and shown on a **live SOC dashboard**. Every push runs **69 tests** and security gates: Gitleaks, Semgrep, Trivy (dependencies + images), Hadolint and Checkov. | TypeScript · Node · Redis · WebSocket · Docker · CI |
 | 🔐 **[ClinicBridge](https://github.com/MarcoRodrigues00/clinicbridge)** | Secure-by-design clinic-management MVP: strict multi-tenant isolation, JWT + MFA (encrypted TOTP secret), PII masking, metadata-only audit and **64 automated security tests** in CI. *Synthetic data — not production.* | TypeScript · Node · React · PostgreSQL · Docker · CI |
 | 🛡️ **[portal-academico-seguro](https://github.com/MarcoRodrigues00/portal-academico-seguro)** | A secure web portal taken through the full lifecycle: **secure development** (Helmet, Zod, Keycloak/JWKS) → **blue-team defense** (pfSense, ModSecurity WAF, Wazuh/Prometheus/Grafana) → **pentest** in a 10-team round. | Node · React · Keycloak · Nginx/WAF · Docker |
-| 📡 **[ESP32 Mini Firewall Gateway](https://github.com/MarcoRodrigues00/ESP32-Mini-Firewall-Gateway)** | Cyber-physical security monitor on a real ESP32: embedded web dashboard, didactic HTTP firewall, flood/scan detection, event log, energy telemetry (INA219) and FreeRTOS tasks — with performance metrics and lab evidence. | C++ · ESP32 · PlatformIO · FreeRTOS |
+| 📡 **[ESP32 Mini Firewall Gateway](https://github.com/MarcoRodrigues00/ESP32-Mini-Firewall-Gateway)** | Cyber-physical security monitor on a real ESP32: embedded web dashboard, didactic HTTP firewall, flood/scan detection, event log, energy telemetry (INA219) and FreeRTOS tasks — with performance metrics, lab evidence and a CI firmware build. | C++ · ESP32 · PlatformIO · FreeRTOS |
 | 🧪 **[ai-pentest-lab](https://github.com/MarcoRodrigues00/ai-pentest-lab)** | Write-up of an AI-assisted, human-in-the-loop pentest lab — methodology, vulnerability analysis (XSS/SQLi/CSRF/SSRF…) and sanitized findings. The runnable tooling is kept private by design. | Security engineering · methodology · LLM (local) |
 
 ### 📜 Certifications
@@ -46,5 +46,6 @@ line between sanitized portfolio material and raw/private evidence.
 ### 📫 Contact
 
 - GitHub: [@MarcoRodrigues00](https://github.com/MarcoRodrigues00)
+- TryHackMe: [marcorodrigues](https://tryhackme.com/p/marcorodrigues) · [SOC Level 1 journey log](https://github.com/MarcoRodrigues00/tryhackme-journey)
 
 <sub>⚠️ All offensive work was done in authorized, isolated labs. Demos use synthetic data; raw evidence stays private.</sub>
